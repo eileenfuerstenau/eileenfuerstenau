@@ -9,5 +9,5 @@
 ![eileenfuerstenau github stats](https://github-readme-stats.vercel.app/api?username=eileenfuerstenau&show_icons=true&hide_border=true)
 
 <a href="https://github.com/eileenfuerstenau/capstone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eileenfuerstenau&repo=quizapp" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eileenfuerstenau&repo=capstone" />
 </a>
