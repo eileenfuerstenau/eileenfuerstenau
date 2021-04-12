@@ -7,3 +7,7 @@
 - 💬 Now I would love to deepen my knowledge and learn more. 
 
 ![eileenfuerstenau github stats](https://github-readme-stats.vercel.app/api?username=eileenfuerstenau&show_icons=true&hide_border=true)
+
+<a href="https://github.com/eileenfuerstenau/capstone">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eileenfuerstenau&repo=capstone" />
+</a>
