@@ -2,9 +2,9 @@
 
 -  :briefcase: I used to be a sales manager in the IT industry. 
 - 🌱 Until i decided that I would like to create digital products myself. 
-- :mortar_board: I've completed the neue fische Web Development Bootcamp to learn all the necessary basics.
-- :tada: With basic knowlege about p.e. Git, HTML, CSS, JavaScript, React, node.js, Express, MongoDB, PHP and Component Testing I was able to create my capstone project - a Web App called "ReadSocial".
-- 💬 Now I would love to deepen my knowledge and learn more. 
+- :mortar_board: After having worked for a few years in larger companies such as Continental and IBM, I moved to the IT service provider MaibornWolff. 
+- :tada: Today, I work there as a software engineer in agile teams designing various digital products.
+- 💬 The focus is always on the best user experience, cost-effectiveness and security.
 
 ![eileenfuerstenau github stats](https://github-readme-stats.vercel.app/api?username=eileenfuerstenau&show_icons=true&hide_border=true)
 
